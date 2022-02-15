@@ -1,1 +1,1 @@
-26f16d3b-070c-42d7-a98d-45784985d995 archive-id=afdbdee8-50ec-4cd4-9baa-354a946585c5 autoenable=true encryption=none externaltype=ora name=ria-beluga-storage type=external url=ria+ssh://beluga.computecanada.ca/lustre03/project/rrg-pbellec/ria-beluga timestamp=1112912058s
+26f16d3b-070c-42d7-a98d-45784985d995 archive-id=afdbdee8-50ec-4cd4-9baa-354a946585c5 autoenable=true encryption=none externaltype=ora name=ria-beluga-storage type=external url=ria+file:///lustre03/project/rrg-pbellec/ria-beluga timestamp=1644957849s
