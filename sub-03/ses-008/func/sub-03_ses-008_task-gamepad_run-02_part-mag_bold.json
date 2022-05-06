@@ -2,6 +2,7 @@
   "AcquisitionMatrixPE": 104,
   "AcquisitionNumber": 1,
   "AcquisitionTime": "14:27:21.797500",
+  "B0FieldSource": "sub-03_ses-008_task-gamepad_run-02_part-mag_bold.nii.gz",
   "BandwidthPerPixelPhaseEncode": 17.17,
   "BaseResolution": 104,
   "BodyPartExamined": "BRAIN",
