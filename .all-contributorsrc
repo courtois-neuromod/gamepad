@@ -1,5 +1,9 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [] 
 }
