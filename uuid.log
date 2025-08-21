@@ -4,5 +4,6 @@
 5af7b552-6750-43df-960c-6c8b1783bbcc bpinsard@elm.criugm.qc.ca:/scratch/tmp/conp_rel/gamepad timestamp=1653097075s
 84ec3822-ee40-413d-b403-6394146ffd76 conp-ria-storage timestamp=1653097075s
 9e3d6bf7-fdc6-421e-889a-99cc56f4f839 s3unf.cneuromod.gamepad.mri.sensitive timestamp=1651870323.687556478s
+af17531b-2274-4c18-a809-fad120b3b05f bpinsard@elm.criugm.qc.ca:/scratch/tmp/cneuromod.all/gamepad/bids timestamp=1755790490s
 bc07d29c-9207-427b-9131-74238fc1ff59 bpinsard@narval2.narval.calcul.quebec:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/gamepad/sourcedata/gamepad timestamp=1644957848s
 e8f53d7b-5d12-481c-b9e8-613698cef0f8 bpinsard@elm.criugm.qc.ca:/data/neuromod/DATA/cneuromod/gamepad timestamp=1112911994s
